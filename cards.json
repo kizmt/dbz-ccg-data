@@ -11,6 +11,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "191",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/A_Beginner_s_Heart_is_Dedicated-192.png"
   },
   {
@@ -279,6 +280,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "229",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Ally_Wins-230.png"
   },
   {
@@ -293,6 +295,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "156",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Ally_s_Sacrifice-157.png"
   },
   {
@@ -1901,6 +1904,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "224",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/224-baba-witch-viewing-drill.jpg"
   },
   {
@@ -2268,6 +2272,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "204",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Battle_Pausing-205.png"
   },
   {
@@ -2429,6 +2434,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "135",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/135-black-arm-bar-drill.jpg"
   },
   {
@@ -2458,6 +2464,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "72",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/72-black-axe-heel-kick.jpg"
   },
   {
@@ -2487,6 +2494,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "71",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/71-black-back-kick.jpg"
   },
   {
@@ -2551,6 +2559,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "131",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/131-black-bear-hug-drill.jpg"
   },
   {
@@ -2930,6 +2939,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "152",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/152-black-defender-drill.jpg"
   },
   {
@@ -3209,6 +3219,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "67",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/67-black-elbow-strike.jpg"
   },
   {
@@ -3616,6 +3627,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "65",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/65-black-fore-fist-punch.jpg"
   },
   {
@@ -3695,6 +3707,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "68",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/68-black-front-kick.jpg"
   },
   {
@@ -4034,6 +4047,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "74",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/74-black-jump-turn-kick.jpg"
   },
   {
@@ -4073,6 +4087,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "66",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/66-black-knife-hand-strike.jpg"
   },
   {
@@ -4417,6 +4432,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "143",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/143-black-physical-drill.jpg"
   },
   {
@@ -4656,6 +4672,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "73",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/73-black-rear-spin-kick.jpg"
   },
   {
@@ -4955,6 +4972,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "235",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/235-black-shadow-drill.jpg"
   },
   {
@@ -5034,6 +5052,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "69",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/69-black-side-kick.jpg"
   },
   {
@@ -5292,6 +5311,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "147",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/147-black-striking-drill.jpg"
   },
   {
@@ -5466,6 +5486,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "127",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/127-black-takedown-drill.jpg"
   },
   {
@@ -5604,6 +5625,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "70",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/70-black-turning-kick.jpg"
   },
   {
@@ -5798,6 +5820,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "99",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/99-blazing-anger.jpg"
   },
   {
@@ -6236,6 +6259,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "59",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/59-blue-big-outside-drop.jpg"
   },
   {
@@ -6250,6 +6274,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "63",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/63-blue-big-whirl-throw.jpg"
   },
   {
@@ -6309,6 +6334,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "61",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/61-blue-body-drop-throw.jpg"
   },
   {
@@ -6353,6 +6379,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "145",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/145-blue-breakfall-drill.jpg"
   },
   {
@@ -6462,6 +6489,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "138",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/138-blue-cradle-drill.jpg"
   },
   {
@@ -6506,6 +6534,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "129",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/129-blue-deceiving-drill.jpg"
   },
   {
@@ -6815,6 +6844,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "141",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/141-blue-enemies-drill.jpg"
   },
   {
@@ -7204,6 +7234,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "11",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/11-blue-forward-foot-sweep.jpg"
   },
   {
@@ -7371,6 +7402,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "64",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/64-blue-ground-holding.jpg"
   },
   {
@@ -7515,6 +7547,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "12",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/12-blue-hip-spring-throw.jpg"
   },
   {
@@ -7604,6 +7637,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "62",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/62-blue-inner-leg-throw.jpg"
   },
   {
@@ -7728,6 +7762,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "233",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/233-blue-life-defense-drill.jpg"
   },
   {
@@ -7907,6 +7942,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "125",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/125-blue-off-balancing-opponent-drill.jpg"
   },
   {
@@ -8231,6 +8267,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "133",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/133-blue-reversal-drill.jpg"
   },
   {
@@ -8295,6 +8332,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "13",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/13-blue-round-throw.jpg"
   },
   {
@@ -8399,6 +8437,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "14",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/14-blue-shoulder-wheel.jpg"
   },
   {
@@ -9335,6 +9374,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "209",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/209-broken-scouter.jpg"
   },
   {
@@ -9720,6 +9760,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "222",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/222-bulma-finds-a-dragon-ball.jpg"
   },
   {
@@ -9734,6 +9775,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "223",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/223-bulma-finds-a-drill.jpg"
   },
   {
@@ -9748,6 +9790,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "87",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/87-bulma-lv1.jpg"
   },
   {
@@ -9887,6 +9930,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "23",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/23-burning-rage.jpg"
   },
   {
@@ -10949,6 +10993,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "86",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/86-chi-chi-lv1.jpg"
   },
   {
@@ -11098,6 +11143,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "104",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/104-chiaotzu-lv1.jpg"
   },
   {
@@ -11112,6 +11158,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "105",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/105-chiaotzu-lv2.jpg"
   },
   {
@@ -11156,6 +11203,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "230",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/230-chiaotzus-drill.jpg"
   },
   {
@@ -11170,6 +11218,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "123",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/123-chiaotzus-energy-manipulation.jpg"
   },
   {
@@ -11194,6 +11243,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "ultra rares",
+    "number": "250",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-ultra-rares/250-chiaotzus-physical-defense.jpg"
   },
   {
@@ -11552,6 +11602,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "200",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/200-cutting-the-tail.jpg"
   },
   {
@@ -12496,6 +12547,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "89",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/89-dream-chamber-training.jpg"
   },
   {
@@ -12510,6 +12562,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "199",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/199-dream-fighting.jpg"
   },
   {
@@ -12524,6 +12577,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "242",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/242-dream-machine-battle.jpg"
   },
   {
@@ -12578,6 +12632,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "15",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/15-earth-dragon-ball-1.jpg"
   },
   {
@@ -12602,6 +12657,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "16",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/16-earth-dragon-ball-2.jpg"
   },
   {
@@ -12626,6 +12682,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "75",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Earth_Dragon_Ball_3-76.png"
   },
   {
@@ -12680,6 +12737,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "76",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/76-earth-dragon-ball-4.jpg"
   },
   {
@@ -12704,6 +12762,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "77",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/77-earth-dragon-ball-5.jpg"
   },
   {
@@ -12728,6 +12787,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "186",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/186-earth-dragon-ball-6.jpg"
   },
   {
@@ -12752,6 +12812,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "187",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/187-earth-dragon-ball-7.jpg"
   },
   {
@@ -12776,6 +12837,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "188",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/188-earth-dragon-ball-capture.jpg"
   },
   {
@@ -12790,6 +12852,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "189",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/189-earth-dragon-ball-combat.jpg"
   },
   {
@@ -13286,6 +13349,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "190",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/190-enraged.jpg"
   },
   {
@@ -13455,6 +13519,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "157",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/157-eyes-of-the-dragon.jpg"
   },
   {
@@ -13479,6 +13544,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "30",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/30-fall-7-times-get-up-8-times.jpg"
   },
   {
@@ -13773,6 +13839,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "31",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/31-fortify-your-spirit.jpg"
   },
   {
@@ -14915,6 +14982,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "164",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Gohan_Lv_1-165.png"
   },
   {
@@ -14929,6 +14997,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "164",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/164-gohan-lv1.jpg"
   },
   {
@@ -15008,6 +15077,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "165",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Gohan_Lv_2-166.png"
   },
   {
@@ -15072,6 +15142,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "166",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/166-gohan-lv3.jpg"
   },
   {
@@ -15220,6 +15291,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "111",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/111-gohans-energy-defense.jpg"
   },
   {
@@ -15248,6 +15320,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "214",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/214-gohans-father-save.jpg"
   },
   {
@@ -15400,6 +15473,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "26",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/26-gohans-physical-attack.jpg"
   },
   {
@@ -15880,6 +15954,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "46",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/46-goku-anger-attack.jpg"
   },
   {
@@ -15904,6 +15979,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "153",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/153-goku-energy-blast.jpg"
   },
   {
@@ -15928,6 +16004,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "101",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/101-goku-honor-duel.jpg"
   },
   {
@@ -15942,6 +16019,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "158",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/158-goku-lv1.jpg"
   },
   {
@@ -15956,6 +16034,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "158",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/158-goku-lv1.jpg"
   },
   {
@@ -16065,6 +16144,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "159",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/159-goku-lv2.jpg"
   },
   {
@@ -16109,6 +16189,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "160",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/160-goku-lv3.jpg"
   },
   {
@@ -16348,6 +16429,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "237",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/237-gokus-capturing-drill.jpg"
   },
   {
@@ -16491,6 +16573,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "108",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/108-gokus-energy-defense.jpg"
   },
   {
@@ -16725,6 +16808,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "202",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/202-gokus-lucky-break.jpg"
   },
   {
@@ -16739,6 +16823,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "231",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/231-gokus-mixing-drill.jpg"
   },
   {
@@ -16773,6 +16858,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "25",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/25-gokus-physical-attack.jpg"
   },
   {
@@ -16787,6 +16873,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "ultra rares",
+    "number": "248",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-ultra-rares/248-gokus-plan.jpg"
   },
   {
@@ -17124,6 +17211,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "24",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/24-gokus-surprise-attack.jpg"
   },
   {
@@ -17183,6 +17271,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "ultra rares",
+    "number": "247",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Goku_s_Truce-248.png"
   },
   {
@@ -18040,6 +18129,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "205",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Grabbing_the_Tail-206.png"
   },
   {
@@ -18649,6 +18739,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "195",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/195-hero-advantage.jpg"
   },
   {
@@ -19001,6 +19092,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "17",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/17-hidden-power-level.jpg"
   },
   {
@@ -19478,6 +19570,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "33",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/33-its-the-little-things-that-matter.jpg"
   },
   {
@@ -20350,6 +20443,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "79",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/79-king-kai-training.jpg"
   },
   {
@@ -20364,6 +20458,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "88",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/88-king-kai-uniform.jpg"
   },
   {
@@ -20378,6 +20473,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "238",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/238-king-kais-calming.jpg"
   },
   {
@@ -20602,6 +20698,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "167",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/167-krillin-lv1.jpg"
   },
   {
@@ -20616,6 +20713,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "167",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/167-krillin-lv1.jpg"
   },
   {
@@ -20668,6 +20766,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "168",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/168-krillin-lv2.jpg"
   },
   {
@@ -20682,6 +20781,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "169",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/169-krillin-lv3.jpg"
   },
   {
@@ -20830,6 +20930,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "215",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/215-krillins-drill.jpg"
   },
   {
@@ -20844,6 +20945,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "113",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/113-krillins-energy-attack.jpg"
   },
   {
@@ -20858,6 +20960,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "216",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/216-krillins-energy-disk.jpg"
   },
   {
@@ -20952,6 +21055,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "112",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/112-krillins-physical-defense.jpg"
   },
   {
@@ -23825,6 +23929,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "ultra rares",
+    "number": "249",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-ultra-rares/249-medic-kit.jpg"
   },
   {
@@ -23839,6 +23944,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "149",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/149-meditation-drill.jpg"
   },
   {
@@ -23993,6 +24099,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "90",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/90-mothers-touch.jpg"
   },
   {
@@ -25799,6 +25906,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "176",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/176-nappa-lv1.jpg"
   },
   {
@@ -25813,6 +25921,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "176",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/176-nappa-lv1.jpg"
   },
   {
@@ -25840,6 +25949,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "177",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/177-nappa-lv2.jpg"
   },
   {
@@ -25854,6 +25964,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "178",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/178-nappa-lv3.jpg"
   },
   {
@@ -25893,6 +26004,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "206",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/206-nappas-blinding-stare.jpg"
   },
   {
@@ -25907,6 +26019,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "120",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/120-nappas-energy-aura.jpg"
   },
   {
@@ -25921,6 +26034,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "121",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/121-nappas-physical-resistance.jpg"
   },
   {
@@ -26732,6 +26846,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "5",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/5-orange-arm-bar.jpg"
   },
   {
@@ -26931,6 +27046,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "146",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/146-orange-body-shifting-drill.jpg"
   },
   {
@@ -27589,6 +27705,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "142",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/142-orange-energy-drill.jpg"
   },
   {
@@ -27997,6 +28114,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "234",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/234-orange-focusing-drill.jpg"
   },
   {
@@ -28321,6 +28439,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "51",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/51-orange-hip-throw.jpg"
   },
   {
@@ -28335,6 +28454,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "53",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/53-orange-holding-after-takedown.jpg"
   },
   {
@@ -28559,6 +28679,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "4",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/4-orange-leg-sweep.jpg"
   },
   {
@@ -28583,6 +28704,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "126",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/126-orange-lifting-drill.jpg"
   },
   {
@@ -28697,6 +28819,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "52",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/52-orange-neck-restraints.jpg"
   },
   {
@@ -28746,6 +28869,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "134",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/134-orange-off-balancing-drill.jpg"
   },
   {
@@ -29325,6 +29449,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "50",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/50-orange-shoulder-throw.jpg"
   },
   {
@@ -29498,6 +29623,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "137",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/137-orange-spontaneous-drill.jpg"
   },
   {
@@ -29802,6 +29928,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "130",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/130-orange-tripping-drill.jpg"
   },
   {
@@ -29816,6 +29943,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "3",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/3-orange-two-knuckle-punch.jpg"
   },
   {
@@ -29950,6 +30078,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "49",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/49-orange-wrist-flex-takedown.jpg"
   },
   {
@@ -30594,6 +30723,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "103",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/103-piccolo-honor-duel.jpg"
   },
   {
@@ -30608,6 +30738,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "161",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/161-piccolo-lv1.jpg"
   },
   {
@@ -30622,6 +30753,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "161",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/161-piccolo-lv1.jpg"
   },
   {
@@ -30676,6 +30808,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "162",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/162-piccolo-lv2.jpg"
   },
   {
@@ -30730,6 +30863,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "163",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/163-piccolo-lv3.jpg"
   },
   {
@@ -30799,6 +30933,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "154",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/154-piccolo-sidestep.jpg"
   },
   {
@@ -30862,6 +30997,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "109",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/109-piccolos-energy-attack.jpg"
   },
   {
@@ -30886,6 +31022,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "212",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/212-piccolos-flight.jpg"
   },
   {
@@ -30935,6 +31072,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "110",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/110-piccolos-physical-defense.jpg"
   },
   {
@@ -31498,6 +31636,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "207",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/207-power-gifting.jpg"
   },
   {
@@ -31591,6 +31730,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "22",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/22-power-up.jpg"
   },
   {
@@ -31605,6 +31745,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "97",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/97-power-up-more.jpg"
   },
   {
@@ -31619,6 +31760,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "98",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/98-power-up-the-most.jpg"
   },
   {
@@ -31798,6 +31940,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "219",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/219-raditz-energy-burst.jpg"
   },
   {
@@ -31822,6 +31965,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "210",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/210-raditz-flying-kick.jpg"
   },
   {
@@ -31836,6 +31980,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "102",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/102-raditz-honor-duel.jpg"
   },
   {
@@ -31850,6 +31995,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "170",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/170-raditz-lv1.jpg"
   },
   {
@@ -31864,6 +32010,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "170",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/170-raditz-lv1.jpg"
   },
   {
@@ -31878,6 +32025,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "171",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/171-raditz-lv2.jpg"
   },
   {
@@ -31892,6 +32040,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "172",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/172-raditz-lv3.jpg"
   },
   {
@@ -31916,6 +32065,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "118",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/118-raditz-physical-defense.jpg"
   },
   {
@@ -31945,6 +32095,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "47",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/47-raditz-total-defense.jpg"
   },
   {
@@ -32294,6 +32445,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "58",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/58-red-back-kick.jpg"
   },
   {
@@ -32608,6 +32760,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "144",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/144-red-coordination-drill.jpg"
   },
   {
@@ -32947,6 +33100,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "10",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/10-red-elbow-strike.jpg"
   },
   {
@@ -33551,6 +33705,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "55",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/55-red-front-kick.jpg"
   },
   {
@@ -34000,6 +34155,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "128",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/128-red-knee-pick-drill.jpg"
   },
   {
@@ -34014,6 +34170,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "54",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/54-red-knee-strike.jpg"
   },
   {
@@ -34028,6 +34185,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "8",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/8-red-knife-hand.jpg"
   },
   {
@@ -34082,6 +34240,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "232",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/232-red-life-attack-drill.jpg"
   },
   {
@@ -34166,6 +34325,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "6",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/6-red-lunge-punch.jpg"
   },
   {
@@ -34345,6 +34505,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "9",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/9-red-palm-heel-strike.jpg"
   },
   {
@@ -34374,6 +34535,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "124",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/124-red-penetrating-defense-drill.jpg"
   },
   {
@@ -34682,6 +34844,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "140",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/140-red-reading-drill.jpg"
   },
   {
@@ -34756,6 +34919,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "7",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/7-red-reverse-punch.jpg"
   },
   {
@@ -34790,6 +34954,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "132",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/132-red-rolling-drill.jpg"
   },
   {
@@ -34804,6 +34969,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "57",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/57-red-round-kick.jpg"
   },
   {
@@ -34923,6 +35089,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "56",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/56-red-side-kick.jpg"
   },
   {
@@ -35656,6 +35823,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "193",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/193-respect-the-spirit.jpg"
   },
   {
@@ -35694,6 +35862,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "217",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/217-ribs-broken.jpg"
   },
   {
@@ -35758,6 +35927,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "78",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/78-roshi-training.jpg"
   },
   {
@@ -35772,6 +35942,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "239",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/239-roshis-calming.jpg"
   },
   {
@@ -36035,6 +36206,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "198",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/198-saiyan-appraisal-maneuver.jpg"
   },
   {
@@ -36049,6 +36221,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "18",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/18-saiyan-arm-throw.jpg"
   },
   {
@@ -36063,6 +36236,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "81",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/81-saiyan-armor.jpg"
   },
   {
@@ -36127,6 +36301,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "197",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/197-saiyan-battle-terms.jpg"
   },
   {
@@ -36346,6 +36521,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "45",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/45-saiyan-city-destruction.jpg"
   },
   {
@@ -36725,6 +36901,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "95",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/95-saiyan-energy-aura.jpg"
   },
   {
@@ -36754,6 +36931,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "94",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/94-saiyan-energy-blast.jpg"
   },
   {
@@ -36808,6 +36986,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "92",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/92-saiyan-energy-defense.jpg"
   },
   {
@@ -36932,6 +37111,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "91",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/91-saiyan-energy-throw.jpg"
   },
   {
@@ -37261,6 +37441,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "19",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/19-saiyan-full-spin-kick.jpg"
   },
   {
@@ -37500,6 +37681,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "196",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/196-saiyan-honor-quest.jpg"
   },
   {
@@ -37824,6 +38006,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "93",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/93-saiyan-mental-energy-attack.jpg"
   },
   {
@@ -37888,6 +38071,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "21",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/21-saiyan-neck-hold.jpg"
   },
   {
@@ -38221,6 +38405,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "236",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/236-saiyan-power-drill.jpg"
   },
   {
@@ -38304,6 +38489,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "20",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/20-saiyan-pressure-punch.jpg"
   },
   {
@@ -38892,6 +39078,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "96",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/96-saiyan-sweeping-defense.jpg"
   },
   {
@@ -38951,6 +39138,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "80",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/80-saiyan-training.jpg"
   },
   {
@@ -39025,6 +39213,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "203",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/203-saiyan-truce-card.jpg"
   },
   {
@@ -39239,6 +39428,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "43",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/43-senzu-bean.jpg"
   },
   {
@@ -39767,6 +39957,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "39",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/39-straining-ankle-smash-move.jpg"
   },
   {
@@ -39781,6 +39972,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "38",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/38-straining-arm-drag-move.jpg"
   },
   {
@@ -39969,6 +40161,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "36",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/36-straining-fake-left-move.jpg"
   },
   {
@@ -40043,6 +40236,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "41",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/41-straining-head-lock-move.jpg"
   },
   {
@@ -40127,6 +40321,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "35",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/35-straining-penetrating-attack-move.jpg"
   },
   {
@@ -40186,6 +40381,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "42",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/42-straining-rolling-escape-move.jpg"
   },
   {
@@ -40970,6 +41166,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "226",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/226-t-rex-defense.jpg"
   },
   {
@@ -40984,6 +41181,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "227",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/227-t-rex-offense.jpg"
   },
   {
@@ -41216,6 +41414,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "208",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/208-terrible-wounds.jpg"
   },
   {
@@ -41499,6 +41698,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "201",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/201-the-tail-grows-back.jpg"
   },
   {
@@ -41548,6 +41748,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "32",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/32-the-untroubled-mind-is-focused.jpg"
   },
   {
@@ -41626,6 +41827,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "82",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/82-tien-lv1.jpg"
   },
   {
@@ -41640,6 +41842,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "83",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/83-tien-lv2.jpg"
   },
   {
@@ -41669,6 +41872,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "211",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Tien_Mind_Reading_Trick-212.png"
   },
   {
@@ -41724,6 +41928,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "114",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Tien_s_Energy_Defense-115.png"
   },
   {
@@ -41797,6 +42002,7 @@
     "imageSource": "ocg",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "27",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/Saiyan_Saga/Tien_s_Physical_Attack-28.png"
   },
   {
@@ -43127,6 +43333,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "218",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/218-unexpected-allies.jpg"
   },
   {
@@ -43401,6 +43608,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "173",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/173-vegeta-lv1.jpg"
   },
   {
@@ -43415,6 +43623,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "173",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/173-vegeta-lv1.jpg"
   },
   {
@@ -43480,6 +43689,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "174",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/174-vegeta-lv2.jpg"
   },
   {
@@ -43504,6 +43714,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "starter",
+    "number": "175",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-starter/175-vegeta-lv3.jpg"
   },
   {
@@ -43673,6 +43884,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "241",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/241-vegetas-dragon-ball-capture.jpg"
   },
   {
@@ -43701,6 +43913,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "119",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/119-vegetas-energy-blast.jpg"
   },
   {
@@ -43860,6 +44073,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "228",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/228-vegetas-plans.jpg"
   },
   {
@@ -43899,6 +44113,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "221",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/221-vegetas-quickness-drill.jpg"
   },
   {
@@ -43948,6 +44163,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "220",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/220-vegetas-stance.jpg"
   },
   {
@@ -43962,6 +44178,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "100",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/100-vegetas-surprise-defense.jpg"
   },
   {
@@ -44006,6 +44223,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "rares",
+    "number": "240",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-rares/240-vegetas-trick.jpg"
   },
   {
@@ -45041,6 +45259,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "106",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/106-yajirobe-lv1.jpg"
   },
   {
@@ -45055,6 +45274,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "107",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/107-yajirobe-lv2.jpg"
   },
   {
@@ -45094,6 +45314,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "122",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/122-yajirobes-energy-attack.jpg"
   },
   {
@@ -45118,6 +45339,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "commons",
+    "number": "29",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-commons/29-yajirobes-physical-attack.jpg"
   },
   {
@@ -45147,6 +45369,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "84",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/84-yamcha-lv1.jpg"
   },
   {
@@ -45161,6 +45384,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "85",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/85-yamcha-lv2.jpg"
   },
   {
@@ -45243,6 +45467,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "115",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/115-yamchas-energy-attack.jpg"
   },
   {
@@ -45272,6 +45497,7 @@
     "imageSource": "retro",
     "source": "dragonballzocg",
     "rarity": "uncommons",
+    "number": "116",
     "imageUrl": "https://cdn.jsdelivr.net/gh/kizmt/dbz-ccg-data@main/images/saiyan-saga-uncommons/116-yamchas-physical-defense.jpg"
   },
   {
